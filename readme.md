@@ -41,4 +41,4 @@ git clone https://github.com/Frontendcore/generator.git js
 
 ### Start contribute!
 
-Now you have all what you need installed in your computer. Just forget all the repositories except the workspace. Here's where you have to work, and that's the one you need to fork. But the workspace compiles in all the other directories. To see your changes go to the site/build folder and start browsing the site.
+Now you have all what you need installed in your computer. Just forget all the repositories except the workspace. Here's where you have to work, and that's the one you need to fork. But the workspace compiles in all the other directories. To see your changes go to the site/build folder and start browsing the site
